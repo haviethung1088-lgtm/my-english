@@ -1,6 +1,6 @@
 {
-  "name": "mot — Học một chút mỗi ngày",
-  "short_name": "mot",
+  "name": "MyEnglish — Học một chút mỗi ngày",
+  "short_name": "MyEnglish",
   "description": "Ứng dụng học và ôn từ vựng ngoại ngữ miễn phí.",
   "lang": "vi",
   "start_url": "./",

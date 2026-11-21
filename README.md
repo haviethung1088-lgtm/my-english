@@ -1,6 +1,6 @@
-# mot
+# MyEnglish
 
-App học từ vựng cá nhân, ưu tiên miễn phí, chạy dạng PWA trên điện thoại và desktop.
+MyEnglish là app học từ vựng cá nhân, ưu tiên miễn phí, chạy dạng PWA trên điện thoại và desktop.
 
 ## Chạy thử
 
