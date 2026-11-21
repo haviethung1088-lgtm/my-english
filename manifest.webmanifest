@@ -1,0 +1,14 @@
+{
+  "name": "mot — Học một chút mỗi ngày",
+  "short_name": "mot",
+  "description": "Ứng dụng học và ôn từ vựng ngoại ngữ miễn phí.",
+  "lang": "vi",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#0b1220",
+  "theme_color": "#101a2d",
+  "icons": [
+    {"src":"icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}
+  ]
+}
