@@ -2,7 +2,7 @@
 
 MyEnglish là app học từ vựng cá nhân, ưu tiên miễn phí, chạy dạng PWA trên điện thoại và desktop.
 
-Phiên bản hiện tại: v1.0.4 · Build 2026-11-21.5 · Phát hành 21/11/2026 17:48 (GMT+7).
+Phiên bản hiện tại: v1.0.5 · Build 2026-11-21.6 · Phát hành 21/11/2026 17:58 (GMT+7).
 
 ## Chạy thử
 
@@ -27,4 +27,4 @@ Header: `word,phonetic,meaning,example,translation,topic`. Dòng có `word` và 
 
 ## Phát hành
 
-Sau mỗi bản phát hành, đồng bộ `version.json`, cache name trong `sw.js`, rồi đóng gói các file của thư mục này. Chưa cấu hình hosting hoặc push server.
+Sau mỗi bản phát hành, đồng bộ `version.json`, `release.js`, cache name trong `sw.js`, rồi đóng gói các file của thư mục này. Chưa cấu hình hosting hoặc push server.
