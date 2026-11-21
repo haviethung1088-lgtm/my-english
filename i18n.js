@@ -55,7 +55,6 @@
       const original = originals.get(node);
       const trimmed = original.trim();
       const translated = language === 'en' ? translate(trimmed) : trimmed;
-      if (translated === trimmed) continue;
       const leading = original.match(/^\s*/)?.[0] || '';
       const trailing = original.match(/\s*$/)?.[0] || '';
       const value = leading + translated + trailing;
