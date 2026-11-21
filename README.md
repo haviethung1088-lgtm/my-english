@@ -2,7 +2,7 @@
 
 MyEnglish là app học từ vựng cá nhân, ưu tiên miễn phí, chạy dạng PWA trên điện thoại và desktop.
 
-Phiên bản hiện tại: v1.0.2 · Build 2026-11-21.3 · Phát hành 21/11/2026 17:30 (GMT+7).
+Phiên bản hiện tại: v1.0.4 · Build 2026-11-21.5 · Phát hành 21/11/2026 17:48 (GMT+7).
 
 ## Chạy thử
 
@@ -18,6 +18,8 @@ Phục vụ thư mục này qua HTTPS hoặc localhost (Service Worker/PWA cần
 - Nhắc học mặc định mỗi 60 phút, 5 từ mỗi lượt. Trong bản này đồng hồ chỉ chạy khi trang/app đang mở; gửi đúng giờ khi app đóng cần dịch vụ push phía máy chủ.
 - Bộ biểu tượng PWA gồm favicon, Apple touch icon, kích thước 48–512px và maskable 512px.
 - Kiểm tra/cập nhật phiên bản trong Cài đặt hoặc kéo xuống ở màn Tổng quan.
+- Giao diện chọn Tiếng Việt hoặc English; dữ liệu từ vựng giữ nguyên nội dung đã nhập.
+- Ngày đầy đủ và đồng hồ chạy theo giờ địa phương, định dạng 24 giờ có giây.
 
 ## CSV nhập từ
 
