@@ -2,7 +2,7 @@
 
 MyEnglish là app học từ vựng cá nhân, ưu tiên miễn phí, chạy dạng PWA trên điện thoại và desktop.
 
-Phiên bản hiện tại: v1.0.6 · Build 2026-11-21.7 · Phát hành 21/11/2026 21:50 (GMT+7).
+Phiên bản hiện tại: v1.0.7 · Build 2026-11-21.8 · Phát hành 21/11/2026 22:05 (GMT+7).
 
 ## Chạy thử
 
