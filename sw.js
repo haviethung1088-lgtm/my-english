@@ -1,4 +1,4 @@
-const CACHE='myenglish-v1.0.10';
+const CACHE='myenglish-v1.0.11';
 const FILES=['./','./index.html','./app.js','./updates.js','./i18n.js','./release.js','./manifest.webmanifest','./version.json','./favicon.ico','./apple-touch-icon.png','./icon-48.png','./icon-72.png','./icon-96.png','./icon-144.png','./icon-192.png','./icon-512.png','./icon-maskable-512.png'];
 self.addEventListener('install',event=>event.waitUntil(caches.open(CACHE).then(c=>c.addAll(FILES)).then(()=>self.skipWaiting())));
 self.addEventListener('activate',event=>event.waitUntil(caches.keys().then(keys=>Promise.all(keys.filter(k=>k!==CACHE).map(k=>caches.delete(k)))).then(()=>self.clients.claim())));
